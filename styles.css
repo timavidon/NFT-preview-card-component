@@ -59,6 +59,7 @@ body {
   border-radius: 1rem;
   color: var(--white);
   background-color: var(--cardBG-very-dark-blue);
+  box-shadow: 1px 6px 15px -7px var(--cardBG-very-dark-blue);
 }
 
 .view-card-link {
